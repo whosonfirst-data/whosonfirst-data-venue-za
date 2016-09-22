@@ -1,0 +1,82 @@
+{
+  "id": 1108702793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.3389193,-26.1506447,28.3389193,-26.1506447",
+    "geom:latitude":-26.150645,
+    "geom:longitude":28.338919,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"Estate 145 Hartbeeshoek Akasia",
+    "sg:city":"Pretoria",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0182",
+    "sg:tags":[
+        "voyager-credit-manager",
+        "armadanetz",
+        "debt-collection-software",
+        "credit-management-software",
+        "credit-management"
+    ],
+    "sg:website":"http://www.microworks.co.za",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688923,
+        102191573,
+        85633813,
+        101925811,
+        102089819,
+        85783187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39X5WTans66ZWhTv9CQUz6_-26.150645_28.338919@1308163241"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"163b0023771afae3e1262b1df3f8f7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":102089819,
+            "locality_id":101925811,
+            "neighbourhood_id":85783187,
+            "region_id":85688923,
+            "venue_id":1108702793
+        }
+    ],
+    "wof:id":1108702793,
+    "wof:lastmodified":1474570881,
+    "wof:name":"Microworks",
+    "wof:parent_id":85783187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "voyager-credit-manager",
+        "armadanetz",
+        "debt-collection-software",
+        "credit-management-software",
+        "credit-management"
+    ]
+},
+  "bbox": [
+    28.3389193,
+    -26.1506447,
+    28.3389193,
+    -26.1506447
+],
+  "geometry": {"coordinates":[28.3389193,-26.1506447],"type":"Point"}
+}

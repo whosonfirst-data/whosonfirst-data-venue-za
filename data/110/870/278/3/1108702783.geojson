@@ -1,0 +1,61 @@
+{
+  "id": 1108702783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"27.9361,-26.6401,27.9361,-26.6401",
+    "geom:latitude":-26.6401,
+    "geom:longitude":27.9361,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 2470 Saxonwold",
+    "sg:city":"Johannesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2132",
+    "sg:tags":[
+        "africa",
+        "web-services",
+        "applications"
+    ],
+    "sg:website":"http://www.engineeringideas.co.za",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Nqx8OiCdDbEZuaQ2gDis_-26.640100_27.936100@1308163239"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"d8793ad852d4d7c08def69794f01abe4",
+    "wof:hierarchy":[],
+    "wof:id":1108702783,
+    "wof:lastmodified":1474570881,
+    "wof:name":"Engineering Ideas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "africa",
+        "web-services",
+        "applications"
+    ]
+},
+  "bbox": [
+    27.9361,
+    -26.6401,
+    27.9361,
+    -26.6401
+],
+  "geometry": {"coordinates":[27.9361,-26.6401],"type":"Point"}
+}

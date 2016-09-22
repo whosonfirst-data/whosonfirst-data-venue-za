@@ -1,0 +1,84 @@
+{
+  "id": 1108702801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.4808203,-33.8051228,18.4808203,-33.8051228",
+    "geom:latitude":-33.805123,
+    "geom:longitude":18.48082,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Compass Close",
+    "sg:city":"Blouberg Sands",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"7441",
+    "sg:tags":[
+        "south-africa",
+        "cape-town",
+        "web-design",
+        "development",
+        "online-marketing",
+        "ppc",
+        "email-marketing"
+    ],
+    "sg:website":"http://www.peronii.co.za",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688905,
+        85633813,
+        101928019,
+        102089393,
+        85782919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NJPzgHNyECaeLIUwfbJuW_-33.805123_18.480820@1308163242"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"e45418c95fe7c8cf68f31aa3e8904e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "county_id":102089393,
+            "locality_id":101928019,
+            "neighbourhood_id":85782919,
+            "region_id":85688905,
+            "venue_id":1108702801
+        }
+    ],
+    "wof:id":1108702801,
+    "wof:lastmodified":1474570881,
+    "wof:name":"PERONii Solutions",
+    "wof:parent_id":85782919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "south-africa",
+        "cape-town",
+        "web-design",
+        "development",
+        "online-marketing",
+        "ppc",
+        "email-marketing"
+    ]
+},
+  "bbox": [
+    18.4808203,
+    -33.8051228,
+    18.4808203,
+    -33.8051228
+],
+  "geometry": {"coordinates":[18.4808203,-33.8051228],"type":"Point"}
+}

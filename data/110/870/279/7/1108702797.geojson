@@ -1,0 +1,98 @@
+{
+  "id": 1108702797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.45045,-33.93155,18.45045,-33.93155",
+    "geom:latitude":-33.93155,
+    "geom:longitude":18.45045,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Plumer Road Woodstock",
+    "sg:city":"Cape Town",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"8000",
+    "sg:tags":[
+        "tourism",
+        "tour-operator",
+        "independent-travellers",
+        "audio-guide",
+        "hire-cars",
+        "broadcast",
+        "spain",
+        "new-zealand",
+        "south-africa",
+        "hawaii",
+        "northern-ireland",
+        "history",
+        "culture",
+        "music",
+        "intellipoint-system"
+    ],
+    "sg:website":"http://www.tourismradio.co.za",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688905,
+        85633813,
+        85772671,
+        102089393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OpELVa5pHtfCvnD0BySFN_-33.931550_18.450450@1308163242"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"c93bf2e952d7f19f51c8fe85e5eb5d88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633813,
+            "county_id":102089393,
+            "neighbourhood_id":85772671,
+            "region_id":85688905,
+            "venue_id":1108702797
+        }
+    ],
+    "wof:id":1108702797,
+    "wof:lastmodified":1474570881,
+    "wof:name":"Tourism Radio",
+    "wof:parent_id":85772671,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tourism",
+        "tour-operator",
+        "independent-travellers",
+        "audio-guide",
+        "hire-cars",
+        "broadcast",
+        "spain",
+        "new-zealand",
+        "south-africa",
+        "hawaii",
+        "northern-ireland",
+        "history",
+        "culture",
+        "music",
+        "intellipoint-system"
+    ]
+},
+  "bbox": [
+    18.45045,
+    -33.93155,
+    18.45045,
+    -33.93155
+],
+  "geometry": {"coordinates":[18.45045,-33.93155],"type":"Point"}
+}

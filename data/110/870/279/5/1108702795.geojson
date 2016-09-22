@@ -1,0 +1,92 @@
+{
+  "id": 1108702795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"18.5027877,-34.0376795,18.5027877,-34.0376795",
+    "geom:latitude":-34.03768,
+    "geom:longitude":18.502788,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"1st Floor,  18 Roeland Street  Gardens,",
+    "sg:city":"Cape Town",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":" 8001 ",
+    "sg:tags":[
+        "online-marketing",
+        "search-engine-optimization",
+        "pay-per-click-advertising",
+        "seo",
+        "ppc",
+        "social-media-strategies",
+        "digital-strategies",
+        "emarketing",
+        "usability",
+        "web-conversion-analytics"
+    ],
+    "sg:website":"http://www.altersage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688905,
+        102191573,
+        85633813,
+        101928027,
+        102089145,
+        85772297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C1433LHu82d8hOHutlu5v_-34.037680_18.502788@1308163238"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"17ebf789a1d131a784175604adeac768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":102089145,
+            "locality_id":101928027,
+            "neighbourhood_id":85772297,
+            "region_id":85688905,
+            "venue_id":1108702795
+        }
+    ],
+    "wof:id":1108702795,
+    "wof:lastmodified":1474570881,
+    "wof:name":"Altersage",
+    "wof:parent_id":85772297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-marketing",
+        "search-engine-optimization",
+        "pay-per-click-advertising",
+        "seo",
+        "ppc",
+        "social-media-strategies",
+        "digital-strategies",
+        "emarketing",
+        "usability",
+        "web-conversion-analytics"
+    ]
+},
+  "bbox": [
+    18.5027877,
+    -34.0376795,
+    18.5027877,
+    -34.0376795
+],
+  "geometry": {"coordinates":[18.5027877,-34.0376795],"type":"Point"}
+}

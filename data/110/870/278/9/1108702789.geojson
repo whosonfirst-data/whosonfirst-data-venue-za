@@ -1,0 +1,82 @@
+{
+  "id": 1108702789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.0354352,-26.1470966,28.0354352,-26.1470966",
+    "geom:latitude":-26.147097,
+    "geom:longitude":28.035435,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"158 Jan Smuts Avenue Rosebank",
+    "sg:city":"Johannesburg",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2192",
+    "sg:tags":[
+        "football",
+        "soccer",
+        "live-scores",
+        "social-network",
+        "visualization"
+    ],
+    "sg:website":"http://scoregrid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688923,
+        102191573,
+        85633813,
+        101925745,
+        102089243,
+        85772109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FH79hwgidvB2sFdIB2Sz1_-26.147097_28.035435@1308163240"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"83d7fcb7eca6bca78216a5a67b5d7902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":102089243,
+            "locality_id":101925745,
+            "neighbourhood_id":85772109,
+            "region_id":85688923,
+            "venue_id":1108702789
+        }
+    ],
+    "wof:id":1108702789,
+    "wof:lastmodified":1474570881,
+    "wof:name":"ScoreGrid",
+    "wof:parent_id":85772109,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "football",
+        "soccer",
+        "live-scores",
+        "social-network",
+        "visualization"
+    ]
+},
+  "bbox": [
+    28.0354352,
+    -26.1470966,
+    28.0354352,
+    -26.1470966
+],
+  "geometry": {"coordinates":[28.0354352,-26.1470966],"type":"Point"}
+}

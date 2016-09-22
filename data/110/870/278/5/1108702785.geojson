@@ -1,0 +1,65 @@
+{
+  "id": 1108702785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.068157,-26.2424801,28.068157,-26.2424801",
+    "geom:latitude":-26.24248,
+    "geom:longitude":28.068157,
+    "iso:country":"ZA",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 2470 Saxonwold",
+    "sg:city":"Johannesburg, Gauteng",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"2132",
+    "sg:tags":[
+        "web",
+        "mobile",
+        "africa",
+        "innovation",
+        "technology"
+    ],
+    "sg:website":"http://www.engineeringideas.co.za",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39hxQLEAz2XifXZtBntORl_-26.242480_28.068157@1308163239"
+    },
+    "wof:country":"ZA",
+    "wof:created":1474570881,
+    "wof:geomhash":"9aebf11acd5f7c96e3707c9f7a745384",
+    "wof:hierarchy":[],
+    "wof:id":1108702785,
+    "wof:lastmodified":1474570881,
+    "wof:name":"EngineeringIdeas",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-za",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "mobile",
+        "africa",
+        "innovation",
+        "technology"
+    ]
+},
+  "bbox": [
+    28.068157,
+    -26.2424801,
+    28.068157,
+    -26.2424801
+],
+  "geometry": {"coordinates":[28.068157,-26.2424801],"type":"Point"}
+}
